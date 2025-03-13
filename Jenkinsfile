@@ -1,4 +1,4 @@
-prachipeline{
+pipeline{
  environment {
  registry = "rachellymbery/vatcal"
         registryCredentials = "dockerhub_id"
